@@ -61,7 +61,7 @@ I18N.zh = {
             "Sign in": "登录",
             "Sign up": "注册",
 
-            "Search GitHub": "GitHub 一下，你就知道",
+            "Search or Jump to…": "搜索或跳转到…",
             "This repository": "当前仓库",
             "Search": "搜索",
 
@@ -111,7 +111,7 @@ I18N.zh = {
             "Confirm password to continue": "确认密码后才能继续操作",
             "Password": "密码",
             "(Forgot password)": "(忘记密码)",
-            "Confirm password": "继续",
+            "Confirm password": "确认密码",
 
             "Updated": "更新",
             "Terms": "条款",
@@ -144,7 +144,7 @@ I18N.zh = {
             "Attach files by dragging & dropping,": "拖拽添加附件，",
             "selecting them": "或选择文件",
             ", or pasting from the clipboard.": "，或复制粘贴内容。",
-            "Styling with Markdown is supported": "支持 Markdown 功能哦。",
+            "Styling with Markdown is supported": "支持使用 Markdown 排版",
 
             "Close issue": "关闭问题",
             "Comment": "提交",
@@ -160,8 +160,8 @@ I18N.zh = {
             "Unfollow": "取消关注",
             "Watch": "关注",
             "Unwatch": "取消关注",
-            "Star": "点赞",
-            "Unstar": "取消点赞",
+            "Star": "加星星",
+            "Unstar": "取消星星",
             "Fork": "派生",
 
             // 邮箱验证提示
@@ -227,20 +227,20 @@ I18N.zh = {
             // 新手帮助
             "Learn Git and GitHub without any code!": "了解 Git 和 GitHub 无需任何代码！",
             "Using the Hello World guide, you’ll create a repository, start a branch,": "使用 Hello World 指南，您将创建一个仓库，开始一个分支，",
-            "write comments, and open a pull request.": "写评论，并创建一个拉取请求。(教程内容就不翻译了...)",
+            "write comments, and open a pull request.": "写评论，并创建一个拉取请求。",
             "Let's get started!": "让我们开始吧！",
             "Hide this notice forever": "永久的隐藏该信息",
 
             "Welcome to GitHub! What’s next?": "欢迎来到 GitHub！下一步干什么？",
             "Create a repository": "创建一个仓库",
             "Tell us about yourself": "介绍一下你自己",
-            "Browse interesting repositories": "浏览有趣资料库",
+            "Browse interesting repositories": "浏览有趣的资料库",
             "on Twitter": "在 Twitter 上",
 
             "You don’t have any repositories yet!": "您目前还没有任何仓库！",
             "Create your first repository": "创建您的第一个仓库",
             "or": "或者",
-            "learn more about Git and GitHub": "学习更多关于 Git 和 GitHub 知识",
+            "learn more about Git and GitHub": "学习更多关于 Git 和 GitHub 的知识",
 
             // 已有仓库的项目
             "Repositories you contribute to": "您贡献过的仓库",
@@ -378,9 +378,9 @@ I18N.zh = {
             "Issues reported": "问题报告",
 
             // 动态 状态词
-            "starred": "赞了",
-            "forked": "收藏了",
-            "forked from": "收藏至",
+            "starred": "个星星",
+            "forked": "个派生",
+            "forked from": "派生自",
             "created repository": "创建了仓库",
             "opened pull request": "发起了拉取请求",
             "commented on pull request": "评论了拉取请求",
@@ -1249,7 +1249,7 @@ I18N.zh = {
             "Businesses": "企业",
             "Businesses of all sizes use GitHub to support their development process and securely build software.": "各种规模的企业使用的 GitHub 支持其发展过程中，安全地构建软件。",
 
-            "GitHub is proud to host projects and organizations like": "GitHub 是自豪地举办项目和组织，如",
+            "GitHub is proud to host projects and organizations like": "GitHub 自豪地托管项目和组织，如",
             "Public projects are always free. Work together across unlimited private repositories for $7 / month.": "公共项目是免费的。私人项目需要支付 7 美元一个月的费用。",
         },
         "regexp": [ // 正则翻译
@@ -1611,11 +1611,11 @@ I18N.zh = {
 
             // 代码页面
             "What would you like to do?": "您想做什么？",
-            "Embed this gist in your website.": "Embed 可嵌入到您的网页中。",
-            "Copy sharable URL for this gist.": "复制 URL 共享这个片段。",
-            "Clone with Git or checkout with SVN using the repository's web address.": "Git 克隆或 SVN 检出该仓库所使用的 web 地址。",
-            "Clone with an SSH key and passphrase from your GitHub settings.": "使用 SSH 密钥克隆",
-            "Learn more about clone URLs": "更多的克隆方法",
+            "Embed this gist in your website.": "将这个代码片段嵌入到您的网页中。",
+            "Copy sharable URL for this gist.": "复制该代码片段的共享 URL。",
+            "Clone with Git or checkout with SVN using the repository's web address.": "使用该仓库的地址，在 Git 中克隆或使用 SVN 检查。",
+            "Clone with an SSH key and passphrase from your GitHub settings.": "使用您预先在 GitHub 设置中配置的 SSH 密钥克隆。",
+            "Learn more about clone URLs": "了解更多关于克隆用的 URL 地址",
 
             "Copy to clipboard": "复制到剪切板",
             "Copied!": "复制成功!",
